@@ -87,6 +87,7 @@ SELECT (the column names we want to display from all the tables we are using)
 FROM (one table)
 JOIN (the table connecting to our initial table)
 ON (table1.primary key of table 1 = table2.primary key of table 2);
+
 <img src="../Images/module1_12.jpg" width="670" height="400" />
 <img src="../Images/module1_13.jpg" width="670" height="400" />
 
