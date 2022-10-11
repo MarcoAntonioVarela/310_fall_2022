@@ -1,4 +1,5 @@
-# Overview
+![This is an image](pictures/Module1_Banner.png)
+## Overview
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
