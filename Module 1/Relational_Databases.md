@@ -19,7 +19,7 @@ For this database I have created 8 tables:\
 * course
 * program type
 * field
-* student has course\
+* student has course
 
 
 2 tables are for the student information:
