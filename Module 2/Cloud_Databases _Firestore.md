@@ -2,12 +2,17 @@
 ![Banner Module 1](../Images/Module1_Banner.png) 
 ## Overview
 Welcome to my <b>Cloud Databases</b> project!\
-During this project I will be using the new version of Firebase 9 to create a database for my Mexican Restaurant!\
-Firebase is what is know as a back end as a service, it provides back-end services like databases, authentication, file storage, cloud functions, hosting and other services as well that we can plug directly into our front-end applications or websites to make use of them.
+During this project I will be using the new version of Firebase 9 to create a database for my Mexican Restaurant! 
+I also created a web application so the user can add and delete items from the database!
+This is my web application:
 
-<img src="../Images/module2_1.png" width="500" height="240" />
+
+
+<img src="../Images/mexican_web.jpg" width="600" height="450" />
 
 During this project, I learned that the differences between the last version of Firebase (8) and Firebase 9 are that this new version adopts a more modular and functional approach, meaning that we only import the firebase functions that we need from the libraries and not those we do not need, in contrast, version 8 used a more object oriented approach (calling those functions on methods directly on Firebase objects).
+
+<img src="../Images/module2_1.png" width="360" height="220" />
 
 ### Getting started!
 
@@ -35,18 +40,20 @@ I also needed to install the Firebase package, by typing npm install Firebase in
 
 [Click Here to See My Relational Databases Demo Video](https://youtu.be/)
 
-## Relational Database
+## Cloud Database Description
 
-For this database I have created 8 tables:
-
-
-I will explain in detail in the following PowerPoint slides each one of this tables, along with all the SQL queries I wrote to manipulate the data! 
-
+For this database I have created these collections and  to manipulate the data! 
+One for the desserts, main dishes and beverages.
+Each collection has documents (each document is either a meal, dessert or beverage)
+And each document contains the following fields!
+ 
+<img src="../Images/collections.png" width="700" height="350" />
 
 ## Development Environment
 
 * Firebase 9 (new version)
 * Node.js 16.12.0 LTS Latest Version: 16.17.1 (includes npm 8.15.0)
+* HTML 5 (To build the web app)
 
 ## Useful Websites
 
@@ -57,10 +64,8 @@ I will explain in detail in the following PowerPoint slides each one of this tab
 
 ## Future Work
 
-* Type here
-* Type Here
-## My Project PowerPoint Presentation (with comments)
-I have created a PowerPoint presentation to explain with detail my cloud databases project.
-<!-- I will use HTML tags to illustrate my PowerPoint Presentation with Photos -->
-<img src="../Images/module1_1.jpg" width="670" height="400" />
+* Add a display all the sections information in a professional and nice chart
+* Add a feature to count how many items we have left, that will add or remove an item every time an item is being added to an order
+* A feature that will calculate how much the client needs to pay depending the food he/ she is buying
+
 
