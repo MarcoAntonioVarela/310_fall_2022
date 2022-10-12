@@ -21,7 +21,17 @@ And the "dist" folder contains my index.html file to create my webpage that will
 
 [Click here to see those files!](https://github.com/MarcoAntonioVarela/310_fall_2022/tree/main/Module%202/Firebase_files)
 
+
 <img src="../Images/module2_3.png" width="300" height="180" />
+
+I also created a new package.json file to keep track of all of my different dependencies that I needed to install by typing npm init -y in my Visual Studio Code terminal:
+
+<img src="../Images/module2_4.jpg" width="850" height="320" />
+
+I also needed to install webpack and webpack -cli by typing npm i webpack webpack-cli from my Visual Studio Code Terminal.
+
+I also needed to install the Firebase package, by typing npm install Firebase in my Visual Studio Code Terminal
+
 
 [Click Here to See My Relational Databases Demo Video](https://youtu.be/)
 
