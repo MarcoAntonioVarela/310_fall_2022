@@ -16,8 +16,10 @@ I also needed to install node.js on my computer (Latest version: 16.17.1 (includ
 
 <img src="../Images/module2_2.png" width="300" height="180" />
 
-All the code I am using will be found in this "Module 2" section, in the "Firebase_files" folder, that folder is divided into other two folders "src" folder, that will contain my JavaScript entry file, this is where I will be writing all of my JavaScript code.
+All the code I am using will be found in this "Module 2" section, in the ["Firebase_files"](https://github.com/MarcoAntonioVarela/310_fall_2022/tree/main/Module%202/Firebase_files) folder, that folder is divided into other two folders "src" folder, that will contain my JavaScript entry file, this is where I will be writing all of my JavaScript code.
 And the "dist" folder contains my index.html file to create my webpage that will be connected to my bundled JavaScript. 
+
+[Click here to see those files!](https://github.com/MarcoAntonioVarela/310_fall_2022/tree/main/Module%202/Firebase_files)
 
 <img src="../Images/module2_3.png" width="300" height="180" />
 
