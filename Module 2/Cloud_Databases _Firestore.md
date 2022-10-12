@@ -12,11 +12,14 @@ During this project, I learned that the differences between the last version of 
 ### Getting started!
 
 The first thing I needed to do for this project was to set up a module bundler like webpack in order to use the new firebase version.
-I also needed to install node.js on my computer
+I also needed to install node.js on my computer (Latest version: 16.17.1 (includes npm 8.15.0))
 
 <img src="../Images/module2_2.png" width="300" height="180" />
 
+All the code I am using will be found in this "Module 2" section, in the "Firebase_files" folder, that folder is divided into other two folders "src" folder, that will contain my JavaScript entry file, this is where I will be writing all of my JavaScript code.
+And the "dist" folder contains my index.html file to create my webpage that will be connected to my bundled JavaScript. 
 
+<img src="../Images/module2_3.png" width="300" height="180" />
 
 [Click Here to See My Relational Databases Demo Video](https://youtu.be/)
 
@@ -27,10 +30,11 @@ For this database I have created 8 tables:
 
 I will explain in detail in the following PowerPoint slides each one of this tables, along with all the SQL queries I wrote to manipulate the data! 
 
+
 ## Development Environment
 
 * Firebase 9 (new version)
-* Node.js 16.12.0 LTS
+* Node.js 16.12.0 LTS Latest Version: 16.17.1 (includes npm 8.15.0)
 
 ## Useful Websites
 
