@@ -10,7 +10,7 @@ Here are some screenshots the results of using https://www.byui.edu/ as my websi
 
 This is the website I used (https://www.byui.edu/):
 
-<img src="../Images/page.jpg"  width="300" height="480"/>
+<img src="../Images/page.jpg"  width="380" height="480"/>
 
 [Click Here to See My Web Scraper Demo Video](https://youtu.be/H0vPOC9E1Ws)
 
