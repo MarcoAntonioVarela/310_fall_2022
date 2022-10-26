@@ -1,5 +1,5 @@
 **[Click here to go back to the homepage](https://github.com/MarcoAntonioVarela/310_fall_2022)**
-![Banner Module 3](../Images/Module1_Banner.png) 
+![Banner Module 3](../Images/Module3_Banner.png) 
 ## Overview
 Welcome! for this project I have created a great web scraper that will do automatic searches using the website and keywords provided by the user! then the program will display the search results in the console! 
 Here are some screenshots the results of using https://www.byui.edu/ as my website to scrape, and "Applied Programming" as the provided keyword:
@@ -10,7 +10,7 @@ Here are some screenshots the results of using https://www.byui.edu/ as my websi
 
 This is the website I used (https://www.byui.edu/):
 
-<img src="../Images/page.jpg"  />
+<img src="../Images/page.jpg"  width="300" height="480"/>
 
 [Click Here to See My Web Scraper Demo Video](https://youtu.be/H0vPOC9E1Ws)
 
