@@ -25,6 +25,9 @@ pip install pandas
 
 
 
+This is how my dataset looks like:
+
+<img src="../Images/housing_dataset.jpg" height="300" weight = "200" /> 
 
 
 
