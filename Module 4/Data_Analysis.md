@@ -14,13 +14,14 @@ I coded more than 180 lines of code (between my both classes "Board.java" and "S
 
 This is how my game looks like while the user is playing it!
 
-<img src="../Images/snake1.png" height="300" weight = "200" /> 
+<img src="../Images/snake1.png" height="300" weight = "250" /> 
 
 
 This is how my game looks like when the user looses...GAME OVER! 
 
-<img src="../Images/snake2.png" height="300" weight = "200" /> 
+<img src="../Images/snake2.png" height="300" weight = "250" /> 
 
+Click here to see my folder with all of my code ---------> [Java Snake Game By Marco Varela]()
 
 
 
@@ -32,7 +33,7 @@ This is how my game looks like when the user looses...GAME OVER!
 
  
 * Windows 11 (Dell XPS 15) 
-* Visual Studio Code (Adapted for Java)
+* Visual Studio Code (I integrated Java into it)
 * Java
 
 ## Useful Websites
