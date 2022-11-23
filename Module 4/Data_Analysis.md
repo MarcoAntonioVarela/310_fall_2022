@@ -14,12 +14,12 @@ I coded more than 180 lines of code (between my both classes "Board.java" and "S
 
 This is how my game looks like while the user is playing it!
 
-<img src="../Images/snake1.png" height="250" weight = "150" /> 
+<img src="../Images/snake1.png" height="300" weight = "200" /> 
 
 
 This is how my game looks like when the user looses...GAME OVER! 
 
-<img src="../Images/snake2.png" height="250" weight = "150" /> 
+<img src="../Images/snake2.png" height="300" weight = "200" /> 
 
 
 
